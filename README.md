@@ -1,1 +1,1 @@
-# w3-resources-practice
+# w3-resources exercises.
